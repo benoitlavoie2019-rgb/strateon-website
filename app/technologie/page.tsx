@@ -73,12 +73,13 @@ export default function TechnologiePage() {
           </Link>
 
           <nav className="hidden items-center gap-8 text-sm text-slate-300 md:flex">
-            <Link href="/technologie" className="text-white">Technologie</Link>
-            <Link href="/validation" className="transition hover:text-white">Validation</Link>
-            <Link href="/applications" className="transition hover:text-white">Applications</Link>
-            <Link href="/investisseurs" className="transition hover:text-white">Investisseurs</Link>
-            <Link href="/#contact" className="transition hover:text-white">Contact</Link>
-          </nav>
+  <Link href="/" className="transition hover:text-white">Accueil</Link>
+  <Link href="/technologie" className="text-white">Technologie</Link>
+  <Link href="/validation" className="transition hover:text-white">Validation</Link>
+  <Link href="/investisseurs" className="transition hover:text-white">Investisseurs</Link>
+  <a href="/#applications" className="transition hover:text-white">Applications</a>
+  <a href="/#contact" className="transition hover:text-white">Contact</a>
+</nav>
         </div>
       </header>
 

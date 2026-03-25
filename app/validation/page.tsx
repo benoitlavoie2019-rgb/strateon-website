@@ -57,10 +57,11 @@ export default function ValidationPage() {
           </Link>
 
           <nav className="hidden md:flex gap-6 text-sm text-slate-300">
-            <Link href="/technologie">Technologie</Link>
-            <Link href="/validation" className="text-white">Validation</Link>
-            <Link href="/investisseurs">Investisseurs</Link>
-          </nav>
+  <Link href="/" className="transition hover:text-white">Accueil</Link>
+  <Link href="/technologie" className="transition hover:text-white">Technologie</Link>
+  <Link href="/validation" className="text-white">Validation</Link>
+  <Link href="/investisseurs" className="transition hover:text-white">Investisseurs</Link>
+</nav>
         </div>
       </header>
 
