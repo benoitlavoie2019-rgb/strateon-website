@@ -12,7 +12,7 @@ const pillars = [
   },
   {
     title: "Lecture dynamique avancée",
-    text: "Cette approche permet de suivre l’évolution interne d’un système dans le temps et de faire émerger des signaux utiles avant les lectures conventionnelles.",
+    text: "Notre approche permet de suivre l’évolution interne d'un composant, d’un sous-système, d'un système dans le temps et de faire émerger des signaux utiles avant les lectures conventionnelles.",
   },
 ];
 
@@ -95,7 +95,7 @@ export default function TechnologiePage() {
             </h1>
 
             <p className="mt-8 max-w-3xl text-lg leading-8 text-slate-300 md:text-xl">
-              Cette page présente le cœur scientifique et technologique de STRATÉON, avec une mise en scène claire du Λ-Core Engine, de la lecture dynamique et de l’avantage stratégique porté par l’architecture de stabilité dynamique.
+              Cette page présente le cœur scientifique et technologique de STRATÉON, avec une mise en scène claire du Λ-Core Engine, porter par l'architecture de stabilité dynamque.
             </p>
 
             <div className="mt-12 grid gap-4 sm:grid-cols-3">
@@ -154,11 +154,11 @@ export default function TechnologiePage() {
           <div>
             <div className="text-sm uppercase tracking-[0.28em] text-cyan-200">Architecture</div>
             <h2 className="mt-4 text-3xl font-semibold md:text-5xl">
-              Les cinq blocs de la page Technologie
+              Les blocs de la page Technologie
             </h2>
           </div>
           <p className="max-w-2xl text-slate-300 leading-8">
-            La structure qui suit transforme votre profondeur technologique en un récit lisible, crédible et hautement valorisant pour des audiences industrielles et financières.
+            La structure qui suit transforme notre profondeur technologique en un récit lisible, crédible et hautement valorisant pour des audiences industrielles et financières.
           </p>
         </div>
 
@@ -193,7 +193,7 @@ export default function TechnologiePage() {
               <div className="text-sm uppercase tracking-[0.28em] text-cyan-200">Projection</div>
               <h3 className="mt-4 text-2xl font-semibold">Une fondation pour les verticales de marché</h3>
               <p className="mt-4 text-sm leading-7 text-slate-300">
-                Cette page favorise une transition naturelle vers les applications sectorielles, la validation industrielle et le récit investisseur. Elle devient ainsi un pivot central de toute la plateforme.
+                Notre technologie multi-échelle et multi-industries favorise une transition naturelle vers les applications sectorielles, la validation industrielle et le récit investisseur. Elle devient ainsi un pivot central de toute la plateforme.
               </p>
             </div>
           </div>
@@ -204,12 +204,12 @@ export default function TechnologiePage() {
         <div className="rounded-[2.4rem] border border-white/10 bg-white/[0.05] p-10 shadow-[0_20px_80px_rgba(0,0,0,0.45)] backdrop-blur-2xl">
           <div className="text-sm uppercase tracking-[0.28em] text-cyan-200">Étape suivante</div>
           <h2 className="mt-4 text-3xl font-semibold md:text-5xl">
-            Préparer la page Validation
+            L'entré des investisseurs initiaux
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-slate-300 leading-8">
-            La suite la plus porteuse consiste à construire une page Validation à fort impact, capable d’appuyer votre crédibilité auprès des investisseurs et des partenaires industriels.
+            Une opportunité d’entrée précoce est ouverte pour soutenir la mise en marché et la préparation à la validation industrielle de STRATÉON. 
           </p>
-        </div>
+        </div
       </section>
     </main>
   );
