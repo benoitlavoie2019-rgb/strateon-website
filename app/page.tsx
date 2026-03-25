@@ -185,7 +185,7 @@ export default function Home() {
               <div className="text-sm uppercase tracking-[0.28em] text-cyan-200">Investisseurs</div>
               <h3 className="mt-4 text-2xl font-semibold">Actif structuré</h3>
               <p className="mt-4 text-sm leading-7 text-slate-300">
-                Le site présente STRATÉON comme une plateforme deep tech crédible, apte à soutenir des discussions de financement et de partenariat.
+                STRATÉON se présente comme une plateforme deep tech crédible, apte à soutenir des discussions de financement et de partenariat.
               </p>
             </div>
           </div>
