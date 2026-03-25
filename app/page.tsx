@@ -192,6 +192,7 @@ export default function Home() {
         </div>
       </section>
 
+
       <section id="applications" className="relative z-10 mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div className="rounded-[2.2rem] border border-white/10 bg-white/[0.04] p-8 md:p-10">
           <div className="grid gap-10 lg:grid-cols-[0.95fr_1.05fr]">
