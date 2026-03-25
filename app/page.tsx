@@ -29,8 +29,8 @@ const sectors = [
   "Aéronautique",
   "Énergie",
   "Industrie avancée",
-  "Mobilité durable",
-  "Santé et systèmes biologiques",
+  "Aérospatiale",
+  "Ingénierie de la matière",
   "Éducation et cognition",
 ];
 
